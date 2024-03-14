@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bùi Tiến Thành</h1>
 <h3 align="center">A passionate developer from Việt Nam</h3>
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" alt="coding gifs by chris | Dribbble" width="800">
-</p>
+<!-- <p align="center">
+</p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wai23422&label=Profile%20views&color=0e75b6&style=flat" alt="wai23422" /> </p>
 
