@@ -25,7 +25,7 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=wai23422&show_icons=true&locale=en" alt="wai23422" height="300" width="600" /></p>
 
 <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wai23422&" alt="wai23422" height="250" width="800">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wai23422&" alt="wai23422" height="250" width="700">
 </p>
 
 <h3 align="left">LeetCode Stats:</h3>
