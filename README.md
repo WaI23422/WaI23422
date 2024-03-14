@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bùi Tiến Thành</h1>
 <h3 align="center">A passionate developer from Việt Nam</h3>
-<!-- <p align="center">
-</p> -->
+<p align="center">
+    <img alt="" class="hCL kVc L4E MIw" fetchpriority="auto" loading="auto" src="https://i.pinimg.com/originals/8f/0f/1a/8f0f1a58f61495c4d27bec21c31d7a28.gif" width="400" height="250">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wai23422&label=Profile%20views&color=0e75b6&style=flat" alt="wai23422" /> </p>
 
