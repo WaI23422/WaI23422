@@ -25,9 +25,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wai23422&show_icons=true&locale=en&layout=compact" alt="wai23422" height="200" width="300"/></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=wai23422&show_icons=true&locale=en" alt="wai23422" height="270" width="500" /></p>
 
-<p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wai23422&" alt="wai23422" height="250" width="900">
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wai23422&show_icons=true&locale=en&layout=compact" alt="wai23422" /></p>
 
 <h3 align="left">LeetCode Stats:</h3>
 
